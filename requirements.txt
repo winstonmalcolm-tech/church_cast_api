@@ -28,3 +28,4 @@ tornado==6.4.1
 trove_classifiers==2024.5.22
 truststore==0.9.1
 xmlrpclib==1.0.1
+uvicorn==0.29.0
